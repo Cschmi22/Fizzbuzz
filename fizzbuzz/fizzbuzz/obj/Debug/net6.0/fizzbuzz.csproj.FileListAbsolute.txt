@@ -1,0 +1,15 @@
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\bin\Debug\net6.0\fizzbuzz.exe
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\bin\Debug\net6.0\fizzbuzz.deps.json
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\bin\Debug\net6.0\fizzbuzz.runtimeconfig.json
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\bin\Debug\net6.0\fizzbuzz.dll
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\bin\Debug\net6.0\fizzbuzz.pdb
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.csproj.AssemblyReference.cache
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.AssemblyInfoInputs.cache
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.AssemblyInfo.cs
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.csproj.CoreCompileInputs.cache
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.dll
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\refint\fizzbuzz.dll
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.pdb
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\fizzbuzz.genruntimeconfig.cache
+C:\Users\Caleb Schmidt\Desktop\Repos\fizzbuzz\fizzbuzz\obj\Debug\net6.0\ref\fizzbuzz.dll
